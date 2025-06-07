@@ -14,4 +14,4 @@ This software, including the Scope 3 emissions compliance architecture, voucher 
 
 The contents of this repository are timestamped and cryptographically anchored via blockchain using OpenTimestamps and public GitHub commit history to verify authorship and original creation date.
 
-For licensing, partnerships, or commercial inquiries, contact: isaiah@scope3tool.com
+For licensing, partnerships, or commercial inquiries, contact: isaiah@factortrace.com
